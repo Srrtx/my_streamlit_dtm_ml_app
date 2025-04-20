@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 20 11:04:07 2025
-
-@author: LAB
-"""
-
+streamlit
+scikit-learn
+pandas
+numpy
